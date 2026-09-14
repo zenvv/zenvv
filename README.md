@@ -1,10 +1,18 @@
-### hello fellow human :^)
-<sup>brazillian full-stack webdev | ui/ux | process automation</sup>
+## 👋 hello fellow human, i'm will :^)
+brazillian full-stack webdev | power platformm | ui/ux | process automation
 
-- 🟢 currently working on: [sferi (vector designing tool)](https://github.com/zenvv/sferi)
 
----
-contact:
-- 🌐 website: https://zenvv.dev
-- 💼 linkedIn: https://www.linkedin.com/in/willian-z-327bba186/
-- 📧 email: willianf.zeni@gmail.com
+see the work I've made in: https://zenvv.dev
+
+<space></space>
+<space></space>
+...and reach out here if you want to!
+- LinkedIn: https://www.linkedin.com/in/willianzeni
+- Email: willianf.zeni@gmail.com
+
+```
+ _._     _,-'""`-._
+(,-.`._,'(       |\`-/|
+    `-.-' \ )-`( , o o)
+          `-    \`_`"'-
+```
